@@ -1,16 +1,33 @@
-## Hi there 👋
+# Aaron Jacobs
 
-<!--
-**Jacobs-Aar/Jacobs-Aar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Vision • Machine Learning • Robotics
 
-Here are some ideas to get you started:
+M.S. student at Carnegie Mellon University focused on computer vision,
+robot learning, autonomous systems, and applied machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+### Autonomous Racing Go-Kart
+Real-time perception, SLAM, planning, and control for autonomous racing.
+C++ • Python • Computer Vision • Robotics
+
+### Backdoor Mitigation via Knowledge Distillation
+Investigated knowledge distillation approaches for mitigating BadNets
+backdoors on CIFAR-10.
+PyTorch • Deep Learning • Computer Vision
+
+### Light-Bulb Changing Autonomous Drone
+Autonomous drone platform combining computer vision, flight control,
+path planning, and a custom manipulation mechanism.
+
+## Currently Interested In
+
+- Computer Vision
+- Robot Learning
+- Autonomous Vehicles
+- Embodied AI
+- 3D Vision
+
+## Links
+
+[Resume] • [LinkedIn] • [Email]
