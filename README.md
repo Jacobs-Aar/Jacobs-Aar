@@ -30,4 +30,4 @@ path planning, and a custom manipulation mechanism.
 
 ## Links
 
-[Resume][📄 Resume](./Aaron_Jacobs_Resume.pdf) • [LinkedIn] • [Email]
+[📄 Resume](./assets/Aaron_Jacobs_Resume.pdf) • [LinkedIn] • [Email]
