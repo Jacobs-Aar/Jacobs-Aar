@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="./assets/Aaron_Resume.pdf">📄 Resume</a>
+  <a href="./assets/Aaron_Resume.pdf">Resume</a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/aaronjacobs04/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aaronjacobs04/">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="mailto:aaronj0315@gmail.com">✉️ Email</a>
+  <a href="mailto:aaronj0315@gmail.com">Email</a>
 </p>
 
 # Aaron Jacobs
