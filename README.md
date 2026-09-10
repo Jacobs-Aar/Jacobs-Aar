@@ -8,8 +8,6 @@
 
 # Aaron Jacobs
 
-[Resume](./assets/Aaron_Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/aaronjacobs04/) • aaronj0315@gmail.com
-
 Computer Vision • Machine Learning • Robotics
 
 M.S. student at Carnegie Mellon University focused on computer vision,
