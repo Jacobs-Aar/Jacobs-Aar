@@ -1,4 +1,4 @@
-# Aaron Jacobs <span style="font-size: 50%;">[Resume](./assets/Aaron_Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/aaronjacobs04/) • aaronj0315@gmail.com
+# Aaron Jacobs - LINKS: [Resume](./assets/Aaron_Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/aaronjacobs04/) • aaronj0315@gmail.com
 
 Computer Vision • Machine Learning • Robotics
 
