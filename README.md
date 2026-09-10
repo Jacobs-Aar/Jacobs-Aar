@@ -1,5 +1,9 @@
 # Aaron Jacobs
 
+## Links
+
+[Resume](./assets/Aaron_Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/aaronjacobs04/) • aaronj0315@gmail.com
+
 Computer Vision • Machine Learning • Robotics
 
 M.S. student at Carnegie Mellon University focused on computer vision,
@@ -28,6 +32,4 @@ path planning, and a custom manipulation mechanism.
 - Embodied AI
 - 3D Vision
 
-## Links
 
-[Resume](./assets/Aaron_Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/aaronjacobs04/) • aaronj0315@gmail.com
