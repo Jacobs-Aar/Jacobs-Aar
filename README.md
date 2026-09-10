@@ -3,7 +3,7 @@
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/aaronjacobs04/">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="mailto:aaronj0315@gmail.com">Email</a>
+  <a href="mailto:aaronj0315@gmail.com">aaronj0315@gmail.com</a>
 </p>
 
 # Aaron Jacobs
